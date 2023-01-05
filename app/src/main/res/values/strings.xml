@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PROJECT_GREENHOUSE</string>
+    <string name="tvonboardingthree">100%</string>
+    <string name="tanaman">Tanaman</string>
+    <string name="tvonboardingone2">dirawat dengan perawatan tanaman khusus</string>
+    <string name="tvonboardingtwo2">Jaminan untuk pengembalian jika terjadi kerusakan</string>
+    <string name="tvonboardingthree2">Memberikan yang terbaik kepada seluruh pelanggan</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_my_account">Create My Account</string>
+    <string name="by_creating_an_account_i_agree_to_the_terms_of_use_and_our_privacy_policy">By creating an account i agree to the terms of use and our privacy policy.</string>
+</resources>
